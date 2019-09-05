@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  /* padding: 0; */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -10,4 +11,104 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.inner {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.pagesMenuDiv {
+  display: flex;
+  font-size: 13px;
+  font-weight: bold;
+  /* border-style: solid;
+  border-width: 0.5px;
+  border-color: black;
+  border-left: none;
+  border-right: none; */
+}
+ul {
+  padding: 0;
+}
+.pagesMenu {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+.pages {
+  padding: 15px 15px 0 15px;
+}
+.BBClogo {
+  width: 50px;
+  height: 20px;
+}
+.bell-Image {
+  width: 30px;
+  height: 25px;
+  margin-top: 5px;
+}
+.userIcon {
+  width: 25px;
+  height: 20px;
+  padding-right: 10px;
+}
+.magnifyingGlass {
+  width: 5px;
+  height: 5px;
+}
+input {
+  /* padding: 0.2em; */
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  border: solid white;
+  color: black;
+  margin-top: 10%;
+  /* background: url(./Images/magnifyingGlass.png) no-repeat right 10px center; */
+}
+.sign-in {
+  padding-right: 80px;
+}
+.searchForm {
+  background-color: white;
+  display: inline-block;
+}
+.searchBox {
+  padding: 5px;
+  background-color: #e4e4e4;
+}
+.newsMenu li {
+  border-right: 1px solid #ffffff;
+}
+.newsMenu li:last-child {
+  border-right: none;
+}
+.newsMenuDiv {
+  background-color: #bb1919;
+  font-size: 14px;
+  color: white;
+}
+.newsMenu {
+  display: flex;
+  list-style-type: none;
+}
+.newsHeader {
+  /* background-color: #bb1919; */
+  padding-left: 15px;
+  font-size: 45px;
+}
+.news {
+  padding: 5px 15px 5px 15px;
+}
+.localNewsMenuDiv {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  padding: 0 0 0 10px;
+}
+.localNews {
+  padding: 5px;
+  border-right: 0.5px solid lightgray;
+}
+.localNews:last-child {
+  border-right: none;
 }
