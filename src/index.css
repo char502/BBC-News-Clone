@@ -112,3 +112,36 @@ input {
 .localNews:last-child {
   border-right: none;
 }
+.first-news-div {
+  /* display: flex; */
+}
+.first-news-div-row-one {
+  display: flex;
+}
+.box-1 {
+  flex: 3;
+  padding: 0px 15px 0px 15px;
+}
+.box-2 {
+  flex: 1;
+  padding: 0px 15px 0px 75px;
+}
+.first-news-div-row-two {
+  display: flex;
+}
+.box-3 {
+  flex: 1;
+  padding: 0px 15px 0px 15px;
+}
+.box-4 {
+  flex: 1;
+  padding: 0px 15px 0px 15px;
+}
+.box-5 {
+  flex: 1;
+  padding: 0px 15px 0px 15px;
+}
+.box-6 {
+  flex: 1;
+  padding: 0px 15px 0px 15px;
+}

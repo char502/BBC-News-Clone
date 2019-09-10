@@ -89,6 +89,98 @@ function App() {
             </div>
           </div>
         </header>
+        <div className="first-news-div inner">
+          <div className="first-news-div-row-one">
+            <div className="box-1">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+                ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+                aliquet enim. Eu scelerisque felis imperdiet proin. Dolor sit
+                amet consectetur adipiscing elit. Mauris pellentesque pulvinar
+                pellentesque habitant.{" "}
+              </p>
+            </div>
+            <div className="box-2">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+                ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+                aliquet enim. Eu scelerisque felis imperdiet proin. Dolor sit
+                amet consectetur adipiscing elit. Mauris pellentesque pulvinar
+                pellentesque habitant.{" "}
+              </p>
+            </div>
+          </div>
+          <div className="first-news-div-row-two">
+            <div className="box-3">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+                ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+                aliquet enim.{" "}
+              </p>
+            </div>
+            <div className="box-4">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+                ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+                aliquet enim.{" "}
+              </p>
+            </div>
+            <div className="box-5">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+                ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+                aliquet enim.{" "}
+              </p>
+            </div>
+            <div className="box-6">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+                ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+                aliquet enim.{" "}
+              </p>
+            </div>
+          </div>
+        </div>
+        {/* <div className="second-line-news inner">
+          <div className="box-3">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+              ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+              aliquet enim.{" "}
+            </p>
+          </div>
+          <div className="box-4">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+              ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+              aliquet enim.{" "}
+            </p>
+          </div>
+          <div className="box-5">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+              ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+              aliquet enim.{" "}
+            </p>
+          </div>
+          <div className="box-6">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+              ut sem viverra aliquet eget. Sed risus ultricies tristique nulla
+              aliquet enim.{" "}
+            </p>
+          </div>
+        </div> */}
       </div>
     </div>
   );
